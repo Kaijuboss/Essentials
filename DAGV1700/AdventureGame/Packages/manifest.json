@@ -2,6 +2,7 @@
   "dependencies": {
     "com.unity.ai.navigation": "2.0.12",
     "com.unity.cinemachine": "3.1.4",
+<<<<<<< HEAD
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.feature.2d": "2.0.2",
     "com.unity.ide.rider": "3.0.39",
@@ -13,6 +14,19 @@
     "com.unity.timeline": "1.8.12",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.11",
+=======
+    "com.unity.collab-proxy": "2.8.2",
+    "com.unity.feature.2d": "2.0.1",
+    "com.unity.ide.rider": "3.0.36",
+    "com.unity.ide.visualstudio": "2.0.23",
+    "com.unity.inputsystem": "1.14.0",
+    "com.unity.multiplayer.center": "1.0.0",
+    "com.unity.render-pipelines.universal": "17.1.0",
+    "com.unity.test-framework": "1.5.1",
+    "com.unity.timeline": "1.8.7",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.visualscripting": "1.9.7",
+>>>>>>> fa5a33074b0cff4b2ce1d167d537fcc840f0d06d
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
