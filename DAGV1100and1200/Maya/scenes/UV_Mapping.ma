@@ -1,6 +1,6 @@
 //Maya ASCII 2027 scene
 //Name: UV_Mapping.ma
-//Last modified: Wed, Oct 07, 2026 05:34:02 PM
+//Last modified: Wed, Oct 07, 2026 05:36:13 PM
 //Codeset: 1252
 requires maya "2027";
 requires "stereoCamera" "10.0";
@@ -12,7 +12,7 @@ fileInfo "product" "Maya 2027";
 fileInfo "version" "2027";
 fileInfo "cutIdentifier" "202607171511-52c21617ee";
 fileInfo "osv" "Windows 11 Home v2009 (Build: 26200)";
-fileInfo "UUID" "15694BDF-48EF-62D0-5116-9B837A927221";
+fileInfo "UUID" "F0C0B590-422B-1BD3-0108-FFBEDE89B865";
 createNode transform -s -n "persp";
 	rename -uid "37115A74-479B-AD81-6057-FA969132358B";
 	setAttr ".v" no;
