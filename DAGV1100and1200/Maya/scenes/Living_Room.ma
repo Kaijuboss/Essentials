@@ -1,6 +1,6 @@
 //Maya ASCII 2027 scene
 //Name: Living_Room.ma
-//Last modified: Sat, Oct 31, 2026 10:54:20 AM
+//Last modified: Sat, Oct 31, 2026 04:31:59 PM
 //Codeset: 1252
 requires maya "2027";
 requires "stereoCamera" "10.0";
@@ -13,7 +13,7 @@ fileInfo "product" "Maya 2027";
 fileInfo "version" "2027";
 fileInfo "cutIdentifier" "202607171511-52c21617ee";
 fileInfo "osv" "Windows 11 Home v2009 (Build: 26200)";
-fileInfo "UUID" "416AF0B7-457E-17B4-C37B-7EAD10FB72E0";
+fileInfo "UUID" "2BB62D1E-4F3B-3267-4FCB-C489DCD1921C";
 createNode transform -s -n "persp";
 	rename -uid "7C5F809B-4C35-5CE4-5B76-C7A0B63607ED";
 	setAttr ".v" no;
@@ -10956,8 +10956,8 @@ createNode transform -n "pasted__Floorboard" -p "group50";
 	rename -uid "5173E80F-42DB-1635-2280-559C2D6DBA43";
 createNode transform -n "persp1";
 	rename -uid "2CBF7899-4FF0-B0AB-D28E-F7A14997C9E7";
-	setAttr ".t" -type "double3" 38.12154818420894 30.829227209503841 13.14981270220181 ;
-	setAttr ".r" -type "double3" -29.138353303255325 4746.6000000001577 0 ;
+	setAttr ".t" -type "double3" 34.799130303135144 17.639005226598741 27.591018043281494 ;
+	setAttr ".r" -type "double3" -12.33835330278623 4728.5999999999658 1.2023656493388117e-15 ;
 createNode camera -n "persp1Shape" -p "persp1";
 	rename -uid "165563F9-4B2C-0550-769D-3197E51E6D6C";
 	setAttr -k off ".v";
